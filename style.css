@@ -151,7 +151,9 @@ html {
 
 footer {
     position: relative;
+    diplay: block;
     height: 100%;
+    margin: auto;
 }
   
   .contact {
