@@ -150,6 +150,7 @@ html {
   }
   
   .contact {
+      position: relative;
     text-align: center;
   }
   
