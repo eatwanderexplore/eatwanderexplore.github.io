@@ -17,6 +17,7 @@ html {
     width: 100%;
       display: inline;
   max-height: 69px;
+      height: 100%;
   overflow: hidden;
     border-bottom: 1px solid seashell;
     z-index: 4;
